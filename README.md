@@ -1,9 +1,4 @@
-├── AmazonPrime_Dashboard.pbix # Main Power BI file
-├── data/
-│ └── amazon_prime.csv # Raw dataset
-├── images/
-│ └── dashboard_preview.png # Screenshot of Power BI dashboard
-└── README.md # Documentation
+├── AmazonPrime_Dashboard.pbix 
 
 
 ---
